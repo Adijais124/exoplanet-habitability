@@ -1,0 +1,8 @@
+case,pl_rade,pl_bmasse,pl_orbsmax,pl_insol,st_teff,st_rad,prob_nb,prob_lr,verdict
+Earth-like (baseline),1.0,1.0,1.0,1.0,5778.0,1.0,0.999999773957488,0.16850085585164448,Habitable
+"Hot-Jupiter (too hot, big)",12.0,1000.0,0.05,2500.0,6000.0,1.2,0.0,0.0001288320732303028,Non-habitable
+Frozen Giant (too cold),5.0,100.0,50.0,0.001,5000.0,0.8,1.0,1.0,Habitable
+Close Rocky (too hot),1.5,3.0,0.1,15.0,5800.0,1.0,0.0,0.001079628879824942,Non-habitable
+M-dwarf HZ (cool-star),1.2,2.0,0.2,1.0,3000.0,0.3,0.9999997267116019,0.19293320431897185,Habitable
+A-type star (white-hot),2.0,5.0,1.0,1000.0,9000.0,2.0,0.0,0.00041924475474076445,Non-habitable
+Borderline (upper hab limit),1.8,5.0,1.1,0.35,5600.0,1.0,0.9999999951492722,0.300832733709418,Habitable
